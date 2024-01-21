@@ -1,6 +1,6 @@
-# gameoflife_grp5
-# members:
+# Game Of Life - GROUP 5
+## MEMBERS:
 Jaime Luis Manalo, Kielo Bash Mercado, Hurley Valen Salig
 
-# description:
+## DESCRIPTION:
 Lorem Ipsum...
